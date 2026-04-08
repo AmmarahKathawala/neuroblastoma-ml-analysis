@@ -8,3 +8,9 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+## Data
+
+Large dataset files are not included in this repository due to size limitations.  
+The dataset can be downloaded from:  
+https://www.omicsdi.org/dataset/geo/GSE49711
