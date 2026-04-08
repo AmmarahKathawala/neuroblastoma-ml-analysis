@@ -1,0 +1,10 @@
+# Ignore large dataset files
+DataSet/log2FPKM.tsv
+DataSet/allProbIntensities.tsv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
