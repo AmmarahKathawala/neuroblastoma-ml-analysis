@@ -3,6 +3,7 @@
 This repository contains coursework completed as part of my MSc Bioinformatics programme, focusing on applying machine learning to RNA-seq data for clinical outcome prediction.
 
 The project integrates transcriptomic and clinical data from a neuroblastoma cohort to predict high-risk disease status. Machine learning was used to model clinical outcomes from RNA-seq data, with a focus on robust validation and biological interpretation of predictive genes.
+
 ---
 
 ## Repository Structure
